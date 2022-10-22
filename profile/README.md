@@ -1,7 +1,5 @@
-![Fluwence](https://raw.githubusercontent.com/fluwence/assets/main/200x200.png)
-
 # FLUWENCE
 
-### Building Unique
+### Building the best.
 
-We are a community, a team of developers, who build unique platforms, websites, apps, softwares and packages for your use and entertainment. Our main aim is to provide best quality service. We are a growing community and need your contribution! 
+We are working onto building platforms, websites, apps and other unique and better ideas.
