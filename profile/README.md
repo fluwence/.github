@@ -36,3 +36,12 @@
 + [fluwence-util](https://www.npmjs.com/package/fluwence-util) - An utility package to make your complex tasks simpler.
 
 
+## Templates
+
++ [Fastify Rest API Template](https://github.com/fluwence/fastify-rest-api-template) - REST API with [Fastify](//fastify.io)
+
++ [Express Rest API Template](https://github.com/fluwence/express-api-template) - REST API with [Express](//expressjs.com)
+
++ [Node.js Blog Template](https://github.com/fluwence/nodejs-blog-template) - Create blogs with an Admin Page. Built using [Node.js](//nodejs.org)
+
+
