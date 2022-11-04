@@ -23,6 +23,12 @@
 
 
 
+#### APIs (JSON)
+
++ [Fluwence Calculator API](https://api.calculator.fluwence.cf/) - Evaluate expressions, convert currency and crypto
+
+
+
 #### NPM Packages
 
 + [fluwence-id](https://www.npmjs.com/package/fluwence-id) - Generate random IDs with numerous options like URL friendly, custom lengths, etc.
